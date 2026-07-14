@@ -1,0 +1,5 @@
+# Dependencies for the model conversion / distillation scripts only.
+# The Swift package itself has zero dependencies and never needs these.
+torch>=2.2
+coremltools>=8.0
+pillow>=10.0
